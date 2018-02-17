@@ -52,7 +52,8 @@ void main(void)
 
 	   delay();								// create a delay of ~1/2sec
 	   delay();								// create a delay of ~1/2sec
-
+	   delay();
+	   delay();
 	   i16ToggleCount += 1;					// keep track of #toggles
    }
 
